@@ -45,8 +45,6 @@ The **Document Analysis App** is an AI-powered solution designed to automate the
 - **Machine Learning**: `PyTorch`, `Hugging Face Transformers`
 - **Deployment**: Local deployment with `venv`
 
-## Demo
-[![Document Analysis App Demo](https://img.shields.io/badge/Streamlit-Demo-brightgreen)](https://your-demo-link.com)
 
 ## Installation
 
